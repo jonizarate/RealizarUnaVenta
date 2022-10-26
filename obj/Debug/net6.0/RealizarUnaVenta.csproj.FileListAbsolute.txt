@@ -1,0 +1,15 @@
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\bin\Debug\net6.0\RealizarUnaVenta.exe
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\bin\Debug\net6.0\RealizarUnaVenta.deps.json
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\bin\Debug\net6.0\RealizarUnaVenta.runtimeconfig.json
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\bin\Debug\net6.0\RealizarUnaVenta.dll
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\bin\Debug\net6.0\RealizarUnaVenta.pdb
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.csproj.AssemblyReference.cache
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.AssemblyInfoInputs.cache
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.AssemblyInfo.cs
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.csproj.CoreCompileInputs.cache
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.dll
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\refint\RealizarUnaVenta.dll
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.pdb
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\RealizarUnaVenta.genruntimeconfig.cache
+C:\Users\cratoxs\Desktop\CoderJoni\RealizarUnaVenta\obj\Debug\net6.0\ref\RealizarUnaVenta.dll
